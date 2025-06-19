@@ -1,0 +1,57 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #dce0c5;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.panel{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+input{
+    margin: 10px;
+}
+.btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+.reset-btn{
+    margin-left: 10px;
+}
+button{
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-right: 20px;
+    padding-left: 20px;
+    font-size: medium;
+    cursor: pointer;
+}
+.instr{
+    margin-top: 10px;
+}
+.res{
+    height: 100px;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+.bmi-output p{
+    margin: 0;
+}
+.bmi-output {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 6px;
+    margin-top: 20px;
+    font-family: Arial, sans-serif;
+}
