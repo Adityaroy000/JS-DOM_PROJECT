@@ -13,7 +13,7 @@ Welcome to the **Number Guessing Game** — a fun, interactive web-based game wh
 
 ## 📸 Preview
 
-![Game Preview](![image](https://github.com/user-attachments/assets/55b86a6b-6a8b-488f-a708-23d81b8f2ea4)
+![Game Preview](preview.png)
 ) <!-- Optional: Add a screenshot in your repo -->
 
 ## 🛠️ Built With
@@ -27,3 +27,12 @@ Welcome to the **Number Guessing Game** — a fun, interactive web-based game wh
 1. Clone this repository:
    ```bash
    git clone https://github.com/your-username/number-guessing-game.git
+
+## 🙌 Acknowledgements
+- This project is part of my ongoing journey to improve my frontend and JavaScript skills. Suggestions and improvements are always welcome!
+
+## 📬 Contact Me
+
+- **👤 Name**: Aditya Roy  
+- **🔗 LinkedIn**: [linkedin.com/in/aditya-roy-5a39b429a](https://www.linkedin.com/in/aditya-roy-5a39b429a)  
+- **🐱 GitHub**: [github.com/Adityaroy000](https://github.com/Adityaroy000)
